@@ -7,3 +7,4 @@
     rm -rf ~/.cache /root/.cache
 
 ### Specific
+    rm -rf /var/log/*
